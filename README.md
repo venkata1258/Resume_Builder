@@ -1,4 +1,4 @@
-<img width="1817" height="827" alt="image" src="https://github.com/user-attachments/assets/a191ce17-3ab9-417d-ad19-9d88e591de36" /># ATS Resume Builder
+# ATS Resume Builder
 
 ATS Resume Builder is a RAG-based application that generates ATS-friendly resumes based on a candidate’s uploaded resume and a target job description.
 
@@ -72,4 +72,3 @@ Gemini LLM
 ATS-Friendly Resume Output
 
 ---
-![Uploading image.png…]()
